@@ -14,7 +14,7 @@
 
 ## Architecture
 
-![App Screenshot](https://imgur.com/Ahyr0bY)
+![App Screenshot](https://github.com/vKirtiP/Terraform-Projects/blob/main/Infra-Prov/Infra_prov.png)
 
 ## Deployment
 
